@@ -1,5 +1,5 @@
-# Mini Social Network Repository
-A simple social network website with basic features such as logging in, registering new account, posting articles & comments, etc. using MVC2 Model.
+# Journey to the West Repository
+A website for managing a film crew: actors, tools, scenes involved in a film series "Journey to the West" using MVC2 Model.
 
 # You will find in this repository:
 - src code of project
