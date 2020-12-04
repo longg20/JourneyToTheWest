@@ -1,0 +1,20 @@
+=== AC001-Chris Hemsworth ===
+Role Name: Ton Ngo Khong
+Role Description: hau vuong
+
+
+=== AC005-Tom Hiddleston ===
+Role Name: Ngo Tat To
+Role Description: em ngo khong
+
+
+=== AC002-Chris Evan ===
+Role Name: Ngo Tinh
+Role Description: ngo tinh 
+
+
+=== AC003-Robert Downey Jr. ===
+Role Name: Duong Tang
+Role Description: cuoi ngua
+
+

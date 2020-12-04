@@ -1,0 +1,15 @@
+=== AC002-Chris Evan ===
+Role Name: Captain America
+Role Description: shield hero
+
+
+=== AC002-Chris Evan ===
+Role Name: Captain Murica
+Role Description: bootleg
+
+
+=== AC001-Chris Hemsworth ===
+Role Name: Thor
+Role Description: god of thunder
+
+

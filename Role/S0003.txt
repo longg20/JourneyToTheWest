@@ -1,0 +1,10 @@
+=== AC002-Chris Evan ===
+Role Name: Captain America
+Role Description: shield hero
+
+
+=== AC004-Chadwick Boseman ===
+Role Name: Black Panther
+Role Description: bao den to nhat vung
+
+
